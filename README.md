@@ -1,5 +1,5 @@
 # Ani
-Hi Stranger, it's all about me 
+
 <h1 align="center">Hi 👋, I'm Ankita Harihar</h1>
 <h3 align="center">🚀 A Passionate Frontend Developer | Exploring Flask | Open to Collaborate!</h3>
 
