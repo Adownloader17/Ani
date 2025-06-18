@@ -4,7 +4,7 @@
 <h3 align="center">🚀 A Passionate Frontend Developer | Exploring Flask | Open to Collaborate!</h3>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/97/51/ba/9751ba186c9ba05ae3e6cb1d0b431953.gif" width="650"/>
+  <img src="https://i.pinimg.com/originals/97/51/ba/9751ba186c9ba05ae3e6cb1d0b431953.gif" width="250"/>
 </p>
 
 ---
