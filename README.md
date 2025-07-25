@@ -1,63 +1,63 @@
-# Ani
 
-<h1 align="center">Hi 👋, I'm Ankita Harihar</h1>
-<h3 align="center">🚀 A Passionate Frontend Developer | Exploring Flask | Open to Collaborate!</h3>
-
+<!-- Profile Banner (animated typing + SVG) -->
 <p align="center">
-  <img src="https://i.pinimg.com/originals/97/51/ba/9751ba186c9ba05ae3e6cb1d0b431953.gif" width="250"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FFAA&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Ani;Welcome+to+my+GitHub+Universe;Coder+%7C+Thinker+%7C+Lifelong+Learner" alt="Typing SVG" />
 </p>
 
 ---
 
-- 🌱 I’m currently learning **Flask**  
-- 👯 I’m looking to collaborate on **App Development**  
-- 🤝 I’m looking for help with **DevOps**  
-- 📫 Reach me at **ankitaharihar81@gmail.com**
+## 🙋‍♂️ About Me
+
+Hi there! I'm **Ani**, a passionate developer, tech enthusiast, and explorer of all things digital.
+
+- 🌱 Currently diving deep into **DevOps & CI/CD**
+- 💼 Exploring opportunities in **Cloud-Native & Open Source Projects**
+- 🛠️ Tools I love: GitHub Actions, Docker, Kubernetes, Python, JavaScript
+- 🎯 Goal: Become a **Full-Stack + DevOps Ninja**
+- ⚡ Fun fact: I treat bugs as clues, not problems 🕵️‍♂️
 
 ---
 
-<h3 align="left">🌐 Connect with me:</h3>
+## 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
+![HTML](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3)
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)
+
+---
+
+## 🎨 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ani&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Ani&theme=tokyonight" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Ani&theme=tokyo-night&hide_border=true" width="100%" />
+</p>
+
+---
+
+## 🛍️ Let's Connect
+
 <p align="left">
-  <a href="https://codepen.io/ankita-harihar" target="blank"><img src="https://img.shields.io/badge/Codepen-%23131417.svg?style=for-the-badge&logo=codepen&logoColor=white" /></a>
-  <a href="https://medium.com/@ankitaharihar81" target="blank"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=Medium&logoColor=white" /></a>
-  <a href="https://www.codechef.com/users/shery221b" target="blank"><img src="https://img.shields.io/badge/CodeChef-%23958157.svg?style=for-the-badge&logo=codechef&logoColor=white" /></a>
-  <a href="https://leetcode.com/u/ankitaharihar81/" target="blank"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=white" /></a>
-  <a href="https://www.geeksforgeeks.org/user/ankitahasnuv/" target="blank"><img src="https://img.shields.io/badge/GeeksforGeeks-1f8b4c?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
+  <a href="mailto:your.email@example.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/yourusername"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/yourhandle"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=twitter&logoColor=white" /></a>
+  <a href="https://portfolio.example.com"><img alt="Website" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=white" /></a>
 </p>
 
 ---
 
-<h3 align="left">🛠️ Languages and Tools:</h3>
-<p align="left">
-  <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="50" /> 
-  <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="50" />
-  <img src="https://media.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.gif" width="50" />
-  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="50" />
-  <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="50" />
-  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="50" />
-  <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="50" />
-  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="50" />
-</p>
-
----
-
-<h3 align="left">📊 GitHub Stats</h3>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adownloader17&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://raw.githubusercontent.com/Ani/Ani/output/github-contribution-grid-snake.svg" alt="snake gif" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adownloader17&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adownloader17&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
-<h3 align="center">Ohhhhhhh 🙄</h3>
-<p align="center">
-  <img src="https://i.pinimg.com/originals/ba/c1/cd/bac1cdc1522ec6e9305e9e9b38b20bfd.gif" width="300" />
-</p>
