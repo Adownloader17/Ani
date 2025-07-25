@@ -8,7 +8,7 @@
 
 ## 🙋‍♂️ About Me
 
-Hi there! I'm **Ani**, a passionate developer, tech enthusiast, and explorer of all things digital.
+Hi there! I'm **Ankita**, a passionate developer, tech enthusiast, and explorer of all things digital.
 
 - 🌱 Currently diving deep into **DevOps & CI/CD**
 - 💼 Exploring opportunities in **Cloud-Native & Open Source Projects**
